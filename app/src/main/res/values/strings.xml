@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BeSecure</string>
+    <string name="help">
+	    first add widget on home sreen from widget store into smart phone
+
+	    after set the message,contacts and time duration in setting page of
+	    perticular signal in activty.
+
+	    First on Data enable for internet
+	    Put Gps On(Check all the check box of Location service in setting menu)
+	</string>
+</resources>
